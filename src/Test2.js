@@ -4,7 +4,7 @@ const Test = () => {
     return React.createElement(
         'div',
         null,
-        React.createElement('h1', null, '부모 패키지야ABCD')
+        React.createElement('h1', null, 'HELLO WORLD')
     );
 };
 
