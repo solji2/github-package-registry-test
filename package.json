@@ -1,6 +1,6 @@
 {
     "name": "@solji2/sample_a",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "dependencies": {
         "@testing-library/jest-dom": "^5.17.0",
         "@testing-library/react": "^13.4.0",
@@ -39,7 +39,7 @@
         "url": "https://github.com/solji2/github-package-registry-test.git"
     },
     "publishConfig": {
-        "registry": "https://npm.pkg.github.com/"
+        "access": "public"
     },
     "description": "github package registry test",
     "author": "soljilee",
